@@ -1,0 +1,13 @@
+{
+  "name": "cabinet-glc",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Site vitrine de Global Legal Consulting",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
